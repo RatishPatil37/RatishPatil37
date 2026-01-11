@@ -1,62 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ratish%20Patil&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Innovator%20%7C%20Problem%20Solver&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ratish%20Patil&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Building%20the%20Future%20with%20Code&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+an+Engineering+Student;I+Build+Scalable+Software;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
   <h3>🚀 About Me</h3>
 </div>
 
 <p align="center">
-  I am a passionate <b>Software Engineering Student</b> focused on building efficient and scalable applications. My goal is to leverage my skills in real-world projects and contribute to open-source communities.
+  I am an <b>Engineering Student</b> with a hunger for innovation. I don't just write code; I solve problems. <br>
+  Currently sharpening my skills in <b>Data Structures</b> and <b>Full Stack Development</b> to build scalable solutions.
 </p>
 
 <br/>
 
 <div align="center">
-  <h3>🛠️ Technical Arsenal</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,firebase,postman&perline=9" alt="My Skills" />
-    </a>
-  </p>
+  <h3>⚡ Technical Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,linux,docker,firebase,postman&perline=9&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>📊 Coding Metrics</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RatishPatil37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="Ratish's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ratish's Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RatishPatil37&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117" alt="Ratish's Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RatishPatil37&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ratish's Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribution Activity</h3>
-  <img src="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/github-contribution-grid-snake.svg" alt="Generate Snake to see this!" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ratish Patil LinkedIn" /></a>
-    <a href="mailto:YOUR_EMAIL@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ratish" /></a>
-  </p>
-  <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=Profile%20Views&color=blue&style=flat" alt="RatishPatil37" />
+  <h3>🤝 Connect With Me</h3>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=Profile%20Views&color=ff69b4&style=flat-square" alt="RatishPatil37" />
 </div>
