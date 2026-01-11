@@ -1,34 +1,30 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ratish%20Patil&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Dev&descAlignY=60&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=663399&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Systems;Computer+Vision+Enthusiast;Crafting+User+Experiences;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=663399&center=true&vCenter=true&width=435&lines=AIML+and+Data+Science;Computer+Vision+Enthusiast;Crafting+User+Experiences;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <h3>🚀 About Me</h3>
-</div>
 <p align="center">
-  I am a <b>Software Engineering Student</b> passionate about solving complex problems. <br> 
-  My toolkit includes <b>Full Stack Development</b> and <b>System Design</b>. I am currently building projects to visualize algorithms and improve developer productivity.
+I am a B.E. student in <b>Artificial Intelligence and Data Science</b>. <br>
+  I specialize in bridging the gap between complex algorithms and real-world utility. My work ranges from engineering <b>computer vision based smart navigation glasses for the visually impaired</b> using YOLO and Edge Computing to building <b>sentiment analysis engines</b> that drive insights.
 </p>
 <br/>
-
+  
 <div align="center">
   <h3>⚡ Technical Arsenal</h3>
- <p><b>— Full Stack & Tools —</b></p>
   <marquee direction="left" speed="40" width="600">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,react,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,selenium,docker,git,vscode,github&perline=20" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,tailwind,react,materialui,nodejs,express,fastapi,flask,selenium,tensorflow,mongodb,postgres,docker,git,github,vscode,linux&perline=11" />
   </marquee>
 </div>
 <br/>
 
 <div align="center">
-  <h3>📊 Coding Metrics</h3>
-  <br>
+  <h3>&nbsp;&nbsp;📊 Coding Metrics</h3>
+  <!-- <br> -->
 </div>
 
 <div align="center">
