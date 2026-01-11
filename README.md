@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  I am a passionate <b>Software Engineering Student</b> focused on building efficient and scalable applications. My goal is to leverage my skills in real-world projects and contribute to open-source communities. I am currently looking for <b>Internship opportunities</b> to solve challenging engineering problems.
+  I am a passionate <b>Software Engineering Student</b> focused on building efficient and scalable applications. My goal is to leverage my skills in real-world projects and contribute to open-source communities.
 </p>
 
 <br/>
@@ -32,25 +32,21 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RatishPatil37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RatishPatil37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="Ratish's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Ratish's Top Langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117" alt="Ratish's Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117" alt="Ratish's Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>🐍 Contribution Activity</h3>
-  <img src="https://github.com/RatishPatil37/RatishPatil37/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
