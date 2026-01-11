@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ratish%20Patil&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=663399&center=true&vCenter=true&width=435&lines=Building+Scalable+Systems;Crafting+User+Experiences;Turning+Coffee+Into+Code;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=663399&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Systems;Computer+Vision+Enthusiast;Crafting+User+Experiences;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +23,10 @@
 
 <div align="center">
   <h3>⚡ Technical Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode,linux,docker,firebase,postman&perline=9&theme=dark" />
+ <p><b>— Full Stack & Tools —</b></p>
+  <marquee direction="left" speed="40" width="600">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,react,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,selenium,docker,git,vscode,github&perline=20" />
+  </marquee>
 </div>
 <br/>
 
@@ -38,7 +45,7 @@
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/ratish-patil-2a4910282"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
