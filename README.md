@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Ratish%20Patil&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=663399&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Systems;Computer+Vision+Enthusiast;Crafting+User+Experiences;Open+Source+Contributor" alt="Typing SVG" />
   </a>
