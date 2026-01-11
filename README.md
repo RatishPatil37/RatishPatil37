@@ -34,6 +34,8 @@ I am a B.E. student in <b>Artificial Intelligence and Data Science</b>. <br>
 </div>
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=PROFILE%20VIEWS&style=for-the-badge&color=bd93f9" alt="ratish-patil-visitors" />
+
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <div align="center">
