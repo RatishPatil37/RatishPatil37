@@ -21,7 +21,6 @@ I am a B.E. student in <b>Artificial Intelligence and Data Science</b>. <br>
   </marquee>
 </div>
 <br/>
-@@ -39,21 +39,27 @@ I am a B.E. student in <b>Artificial Intelligence and Data Science</b>. <br>
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <div align="center">
