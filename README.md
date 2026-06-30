@@ -55,11 +55,3 @@ I am a B.E. student in <b>Artificial Intelligence and Data Science</b>. <br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/pacman-contribution-graph.svg">
 </picture>
-
-<h3 align="center">🐍 Snake Contribution Graph</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/RatishPatil37/RatishPatil37/output/github-contribution-grid-snake.svg">
-</picture>
