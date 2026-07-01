@@ -16,11 +16,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## 🧠 About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student at **SIES Graduate School of Technology, Nerul** — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dashboard.
 
@@ -42,9 +40,7 @@ class Ratish:
         return "Let's build something that ships!"
 ```
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## 🚀 What I'm Building
 
@@ -58,7 +54,7 @@ class Ratish:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## ⚡ Tech Arsenal
 
@@ -108,7 +104,7 @@ class Ratish:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -127,7 +123,7 @@ class Ratish:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## 🎓 Currently
 
@@ -139,7 +135,7 @@ class Ratish:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## 🤝 Let's Connect
 
