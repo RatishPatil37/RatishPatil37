@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Edge-AI%20%26%20IoT&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Edge-AI%20%2B%20IoT&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines+with+YOLOv8;Engineering+RAG+%2B+LLM+powered+voice+assistants;Shipping+Edge-AI+on+Raspberry+Pi;AI%2FDS+Undergrad+%40+SIES+GST%2C+Mumbai" alt="Typing SVG" />
@@ -113,7 +113,7 @@ class Ratish:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
-  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RatishPatil37&theme=github_dark"/>
+  <img width="410" src="https://github-profile-trophy.vercel.app/?username=RatishPatil37&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=4"/>
   <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark"/>
 </div>
 
@@ -133,7 +133,8 @@ class Ratish:
 
 - 🎓 B.E. Artificial Intelligence & Data Science, SIES GST — **CGPA 9.26**
 - 🔭 Building **KrishiSetu**, a multilingual agentic AI platform for Indian farmers (RAG + Voice + Computer Vision)
-- 🌱 Sharpening DSA + system design fundamentals
+- 🌱 Deepening my **RAG & LLM Architecture** skills through CampusX's *Advanced RAG* course
+- 🧠 Sharpening DSA + system design fundamentals
 - 🏆 Hackathon builder — Chakravyuh 2.0 (agentic pipelines with LangGraph)
 - 🤝 NSS Volunteer — co-organized a 1000+ participant marathon and community drives
 
