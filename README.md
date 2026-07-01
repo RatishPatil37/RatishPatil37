@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=Profile%20Views&color=8A5CF5&style=flat" alt="profile views"/>&nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.26%2F10-663399?style=flat&labelColor=1a1a1a" alt="cgpa"/>&nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-0077B5?style=flat&labelColor=1a1a1a" alt="open to work"/>
 
 </div>
@@ -22,7 +21,7 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
-I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student at **SIES Graduate School of Technology, Nerul** — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dashboard.
+I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student. — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dashboard.
 
 My work sits at the intersection of three things:
 
@@ -131,12 +130,9 @@ class Ratish:
 
 ## 🎓 Currently
 
-- 🎓 B.E. Artificial Intelligence & Data Science, SIES GST — **CGPA 9.26**
 - 🔭 Building **KrishiSetu**, a multilingual agentic AI platform for Indian farmers (RAG + Voice + Computer Vision)
-- 🌱 Deepening my **RAG & LLM Architecture** skills through CampusX's *Advanced RAG* course
+- 🌱 Deepening my **RAG & LLM Architecture** skills 
 - 🧠 Sharpening DSA + system design fundamentals
-- 🏆 Hackathon builder — Chakravyuh 2.0 (agentic pipelines with LangGraph)
-- 🤝 NSS Volunteer — co-organized a 1000+ participant marathon and community drives
 
 <br/>
 
