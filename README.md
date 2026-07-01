@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I'm%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Edge-AI%20%26%20IoT&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Edge-AI%20%26%20IoT&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines+with+YOLOv8;Engineering+RAG+%2B+LLM+powered+voice+assistants;Shipping+Edge-AI+on+Raspberry+Pi;AI%2FDS+Undergrad+%40+SIES+GST%2C+Mumbai" alt="Typing SVG" />
@@ -19,6 +19,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
 ## 🧠 About Me
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
 I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student at **SIES Graduate School of Technology, Nerul** — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dashboard.
 
@@ -39,6 +41,8 @@ class Ratish:
     def say_hi(self):
         return "Let's build something that ships!"
 ```
+
+<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
@@ -106,11 +110,11 @@ class Ratish:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
-## 📊 GitHub Stats
+## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RatishPatil37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF5&icon_color=0077B5&text_color=c9d1d9"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF5&text_color=c9d1d9"/>
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RatishPatil37&theme=github_dark"/>
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark"/>
 </div>
 
 <div align="center">
