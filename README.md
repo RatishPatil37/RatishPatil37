@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Edge-AI%20%2B%20IoT&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines+with+YOLOv8;Engineering+RAG+%2B+LLM+powered+voice+assistants;Shipping+Edge-AI+on+Raspberry+Pi;AI%2FDS+Undergrad+%40+SIES+GST%2C+Mumbai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines;AI%2FDS+Undergrad+%40+SIES+GST;Full-Stack+%2B+Edge-AI+Enthusiast;Let%27s+ship+something+real!"/>
 </a>
 
 <br/>
@@ -49,8 +49,8 @@ class Ratish:
 
 |  | Project | Highlight |
 |---|---|---|
-| 🌾 | **[KrishiSetu](https://github.com/RatishPatil37)** — AI Vernacular Assistant for Farmers | YOLOv8 crop-disease classifier at **98% accuracy** on 22K+ images, voice-driven scheme navigation, RAG-based eligibility reports |
-| 👓 | **[Smart Sight](https://github.com/RatishPatil37)** — Edge-AI Navigation for the Visually Impaired | Raspberry Pi 4B running YOLOv4-tiny + on-device TinyLlama voice assistant at a stable **10 FPS** |
+| 🌾 | **[KrishiSetu](https://github.com/RatishPatil37)** — AI Vernacular Assistant for Farmers | YOLOv8 crop-disease classifier at **98% accuracy** on 22K+ images, voice-driven scheme navigator, multi-regional support |
+| 👓 | **[Smart Sight](https://github.com/RatishPatil37)** — Edge-AI Navigation for the Visually Impaired | Raspberry Pi 4B running YOLOv4-tiny + on-device TinyLlama voice assistant at a stable 12 FPS |
 | ⭐ | **[Review Insight Navigator](https://github.com/RatishPatil37)** — Amazon Sentiment & Price Tracker | Scraped **30+ product listings**, sentiment classifier at **85% accuracy**, live Streamlit dashboard |
 
 <div align="center"><sub>📌 Pinned repos above the fold say more than this table ever could — check them out!</sub></div>
@@ -112,12 +112,13 @@ class Ratish:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
-  <img width="410" src="https://github-profile-trophy.vercel.app/?username=RatishPatil37&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=4"/>
-  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark"/>
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=RatishPatil37&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=4"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RatishPatil37&theme=github_dark"/>
 </div>
 
 <div align="center">
