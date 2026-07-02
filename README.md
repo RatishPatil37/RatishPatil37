@@ -118,7 +118,7 @@ class Ratish:
 
 <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RatishPatil37&theme=github_dark"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time-commit-stats?username=RatishPatil37&theme=github_dark"/>
 </div>
 
 <div align="center">
