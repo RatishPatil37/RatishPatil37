@@ -111,15 +111,27 @@ class Ratish:
 
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=RatishPatil37&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=4"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RatishPatil37&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=4"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time-commit-stats?username=RatishPatil37&theme=github_dark"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time-commit-stats?username=RatishPatil37&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatishPatil37&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A5CF5&line=0077B5&point=ffffff" width="100%"/>
