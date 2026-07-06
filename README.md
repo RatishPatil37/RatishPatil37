@@ -115,8 +115,8 @@ class Ratish:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A5CF5&text_color=ffffff&card_width=450" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app?user=RatishPatil37&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5" alt="Current Streak"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RatishPatil37&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A5CF5&text_color=ffffff&card_width=450" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=RatishPatil37&theme=github_dark&hide_border=true&bg_color=0d1117&ring=8A5CF5&fire=0077B5" alt="Current Streak"/>
 </div>
 
 <div align="center">
@@ -127,7 +127,9 @@ class Ratish:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:663399,100:0077B5&height=3&width=1000" width="100%"/>
 
-## 🎓 Currently
+
+
+## 🎓 Currently Working on
 
 - 🔭 Building **KrishiSetu**, a multilingual agentic AI platform for Indian farmers (RAG + Voice + Computer Vision)
 - 🌱 Deepening my **RAG & LLM Architecture** skills 
