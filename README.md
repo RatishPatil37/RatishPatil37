@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines;Full-Stack+AI+Systems;Edge-AI+on+Raspberry+Pi;RAG+%26+LLM+Agents" alt="Typing SVG" />
-</a>
-
-<br/>
+<!-- ASCII Terminal Header -->
+<pre>
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                   👋 Welcome to Ratish Patil's Profile                ║
+║                                                                       ║
+║  $ cat ~/about_me.txt                                                ║
+║  Building Computer Vision pipelines • Full-Stack AI Systems          ║
+║  Edge-AI on Raspberry Pi • RAG & LLM Agents                          ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+</pre>
 
 <img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=Profile%20Views&color=8A5CF5&style=flat" alt="profile views"/>&nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-0077B5?style=flat&labelColor=1a1a1a" alt="open to work"/>
@@ -163,4 +168,3 @@ class Ratish:
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:663399&height=120&section=footer" width="100%"/>
-</div>
