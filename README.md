@@ -1,17 +1,34 @@
 <div align="center">
 
-<!-- ASCII Terminal Header -->
-<pre>
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║                   👋 Welcome to Ratish Patil's Profile                ║
-║                                                                       ║
-║  $ cat ~/about_me.txt                                                ║
-║  Building Computer Vision pipelines • Full-Stack AI Systems          ║
-║  Edge-AI on Raspberry Pi • RAG & LLM Agents                          ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-</pre>
+```
+____    _  _____ ___ ____  _   _   ____   _ _____ ___ _     
+|  _ \  / \|_   _|_ _/ ___|| | | | |  _ \ / \_   _|_ _| |    
+| |_) |/ _ \ | |  | |\___ \| |_| | | |_) / _ \ | |  | || |    
+|  _ </ ___ \| |  | | ___) |  _  | |  __/ ___ \| |  | || |___ 
+|_| \_/_/   \_\_| |___|____/|_| |_| |_| /_/   \_\_| |___|_____|
+
+===============================================================
+                    SYSTEM CONFIGURATION
+===============================================================
+[+] User      : RATISH PATIL
+[+] Status    : Software Engineer // Builder
+[+] Stack     : Full Stack Development & DevOps
+[+] Location  : India
+[+] Shell     : /bin/bash -q
+
+[~] echo $BIO
+"Building scalable systems and optimizing performance."
+
+---------------------------------------------------------------
+> INITIALIZING CORE SKILLS...
+---------------------------------------------------------------
+Languages   : [██████████████████░░░] Python, JS, C++
+Frameworks  : [████████████████░░░░░] React, Node.js, Django
+Tools/Cloud : [████████████████████░] Git, Docker, AWS
+
+> Loading system metrics... [ SUCCESS ]
+---------------------------------------------------------------
+```
 
 <img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=Profile%20Views&color=8A5CF5&style=flat" alt="profile views"/>&nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-0077B5?style=flat&labelColor=1a1a1a" alt="open to work"/>
