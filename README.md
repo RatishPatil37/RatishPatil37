@@ -10,27 +10,27 @@
               | $$  | $$| $$  | $$   | $$    /$$$$$$|  $$$$$$/| $$  | $$      | $$      | $$  | $$   | $$    /$$$$$$| $$$$$$$$      
               |__/  |__/|__/  |__/   |__/   |______/ \______/ |__/  |__/      |__/      |__/  |__/   |__/   |______/|________/
 
-                                  ===============================================================
-                                                      SYSTEM CONFIGURATION
-                                  ===============================================================
-                                  [+] User      : RATISH PATIL
-                                  [+] Status    : Software Engineer // Builder
-                                  [+] Stack     : Full Stack Development & DevOps
-                                  [+] Location  : India
-                                  [+] Shell     : /bin/bash -q
-                                  
-                                  [~] echo $BIO
-                                  "Building scalable systems and optimizing performance."
-                                  
-                                  ---------------------------------------------------------------
-                                  > INITIALIZING CORE SKILLS...
-                                  ---------------------------------------------------------------
-                                  Languages   : [██████████████████░░░] Python, JS, C++
-                                  Frameworks  : [████████████████░░░░░] React, Node.js, Django
-                                  Tools/Cloud : [████████████████████░] Git, Docker, AWS
-                                  
-                                  > Loading system metrics... [ SUCCESS ]
-                                  ---------------------------------------------------------------
+        ===============================================================
+                            SYSTEM CONFIGURATION
+        ===============================================================
+        [+] User      : RATISH PATIL
+        [+] Status    : Software Engineer // Builder
+        [+] Stack     : Full Stack Development & DevOps
+        [+] Location  : India
+        [+] Shell     : /bin/bash -q
+        
+        [~] echo $BIO
+        "Building scalable systems and optimizing performance."
+        
+        ---------------------------------------------------------------
+        > INITIALIZING CORE SKILLS...
+        ---------------------------------------------------------------
+        Languages   : [██████████████████░░░] Python, JS, C++
+        Frameworks  : [████████████████░░░░░] React, Node.js, Django
+        Tools/Cloud : [████████████████████░] Git, Docker, AWS
+        
+        > Loading system metrics... [ SUCCESS ]
+        ---------------------------------------------------------------
 ```
 
 <img src="https://komarev.com/ghpvc/?username=RatishPatil37&label=Profile%20Views&color=8A5CF5&style=flat" alt="profile views"/>&nbsp;
