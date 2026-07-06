@@ -115,7 +115,7 @@ class Ratish:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RatishPatil37&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A5CF5&text_color=ffffff&card_width=450" alt="Top Languages"/>
+ <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark&bg_color=0d1117&title_color=8A5CF5" alt="Repos Per Language" />
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=RatishPatil37&theme=github_dark&hide_border=true&bg_color=0d1117&ring=8A5CF5&fire=0077B5" alt="Current Streak"/>
 </div>
 
