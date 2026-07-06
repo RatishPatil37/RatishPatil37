@@ -117,10 +117,15 @@ class RatishPatil:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
- <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark&bg_color=0d1117&title_color=8A5CF5" alt="Repos Per Language" />
-  <img width="52%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=RatishPatil37&theme=github_dark&hide_border=true&bg_color=0d1117&ring=8A5CF5&fire=0077B5" alt="Current Streak"/>
+     <img width="49%" src= "https://github-readme-stats-fast.vercel.app/api?username=RatishPatil37&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A5CF5&icon_color=0077B5&text_color=ffffff"/>
+     <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=RatishPatil37&theme=github_dark&hide_border=true&bg_color=0d1117&ring=8A5CF5&fire=0077B5" alt="Current Streak"/>
 </div>
+<br>
 
+<div align="center">
+     <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark&bg_color=0d1117&title_color=8A5CF5" alt="Repos Per Language" />
+</div>
+ 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatishPatil37&theme=github-dark&hide_border=true&bg_color=0d1117&color=8A5CF5&line=0077B5&point=ffffff" width="100%" alt="Activity Graph"/>
 </div>
