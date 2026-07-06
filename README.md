@@ -24,24 +24,26 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
-I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student. — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dashboard.
+`I design and engineer end-to-end AI architectures—from edge-device sensor integration (Raspberry Pi/IoT) to scalable cloud deployments and automated workflow pipelines.`
 
-My work sits at the intersection of three things:
-
-- 🤖 **AI / Computer Vision** — training and deploying lightweight CV & NLP models (YOLOv8, RAG pipelines, OCR)
-- 🌐 **Full-Stack Engineering** — React + FastAPI/Node products with real users in mind
-- 🔧 **Embedded / Edge-AI** — Raspberry Pi, sensors, and offline-first systems for real-world, low-connectivity environments
-
+My focus spans three architectural pillars:
+- 🤖 Model & Agent Architecture — Designing efficient RAG pipelines, deploying lightweight LLMs, and optimizing CV models (YOLO, NCNN) for production.
+- ⚙️ MLOps & Automation — Orchestrating API integrations and low-code workflows (n8n) to build seamless, automated AI systems.
+- 🌐 Edge-to-Cloud Systems — Bridging hardware and software with offline-first processing and full-stack interfaces (React + FastAPI).
 ```python
-class Ratish:
+class RatishPatil:
     def __init__(self):
-        self.role = "AI/DS Undergrad @ SIES GST, Navi Mumbai"
-        self.focus = ["Computer Vision", "RAG & LLM Agents", "Edge-AI", "Full-Stack"]
-        self.currently_building = "KrishiSetu — AI Vernacular Assistant for Farmers"
-        self.fun_fact = "I've debugged GSM modules at 2 AM more times than I'd like to admit 😅"
+        self.trajectory = "Aspiring AI Architect & Systems Engineer"
+        self.core_competencies = [
+            "Edge AI Deployment", 
+            "RAG/LLM Orchestration", 
+            "API Workflow Automation",
+            "System Design" 
+        ]
+        self.current_focus = "Architecting scalable, multilingual AI systems for low-connectivity environments"
 
-    def say_hi(self):
-        return "Let's build something that ships!"
+    def execute_vision(self):
+        return "Designing pipelines that scale and models that ship."
 ```
 
 <br clear="right"/>
@@ -115,8 +117,8 @@ class Ratish:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
- <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark&bg_color=0d1117&title_color=8A5CF5" alt="Repos Per Language" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=RatishPatil37&theme=github_dark&hide_border=true&bg_color=0d1117&ring=8A5CF5&fire=0077B5" alt="Current Streak"/>
+ <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark&bg_color=0d1117&title_color=8A5CF5" alt="Repos Per Language" />
+  <img width="52%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=RatishPatil37&theme=github_dark&hide_border=true&bg_color=0d1117&ring=8A5CF5&fire=0077B5" alt="Current Streak"/>
 </div>
 
 <div align="center">
