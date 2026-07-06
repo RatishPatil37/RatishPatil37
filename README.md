@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fon[...]"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:663399,100:0077B5&height=260&section=header&text=Hi%2C%20I%27m%20Ratish%20Patil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines;[...]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8A5CF5&center=true&vCenter=true&width=680&lines=Building+Computer+Vision+pipelines;Full-Stack+AI+Systems;Edge-AI+on+Raspberry+Pi;RAG+%26+LLM+Agents" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
-I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student. — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dash[...]
+I'm a pre-final year **B.E. Artificial Intelligence & Data Science** student. — I build **end-to-end AI systems** that go all the way from a sensor or a camera lens down to a deployed cloud dashboard.
 
 My work sits at the intersection of three things:
 
@@ -49,9 +49,9 @@ class Ratish:
 
 |  | Project | Highlight |
 |---|---|---|
-| 🌾 | **[KrishiSetu](https://github.com/RatishPatil37)** — AI Vernacular Assistant for Farmers | YOLOv8 crop-disease classifier at **98% accuracy** on 22K+ images, voice-driven scheme navigat[...]
-| 👓 | **[Smart Sight](https://github.com/RatishPatil37)** — Edge-AI Navigation for the Visually Impaired | Raspberry Pi 4B running YOLOv4-tiny + on-device TinyLlama voice assistant at a stabl[...]
-| ⭐ | **[Review Insight Navigator](https://github.com/RatishPatil37)** — Amazon Sentiment & Price Tracker | Scraped **30+ product listings**, sentiment classifier at **85% accuracy**, live Str[...]
+| 🌾 | **[KrishiSetu](https://github.com/RatishPatil37)** — AI Vernacular Assistant for Farmers | YOLOv8 crop-disease classifier at **98% accuracy** on 22K+ images, voice-driven scheme navigation |
+| 👓 | **[Smart Sight](https://github.com/RatishPatil37)** — Edge-AI Navigation for the Visually Impaired | Raspberry Pi 4B running YOLOv4-tiny + on-device TinyLlama voice assistant at a stable 20 FPS |
+| ⭐ | **[Review Insight Navigator](https://github.com/RatishPatil37)** — Amazon Sentiment & Price Tracker | Scraped **30+ product listings**, sentiment classifier at **85% accuracy**, live Streamlit dashboard |
 
 <div align="center"><sub>📌 Pinned repos above the fold say more than this table ever could — check them out!</sub></div>
 
@@ -112,12 +112,12 @@ class Ratish:
 ## <img width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center"/> GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatishPatil37&theme=github_dark" alt="Top Languages by Repo"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RatishPatil37&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5" alt="Current Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatishPatil37&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A5CF5&text_color=ffffff&card_width=450" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app?user=RatishPatil37&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8A5CF5&fire=0077B5&currStreakLabel=8A5CF5" alt="Current Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatishPatil37&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A5CF5&line=0077B5&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatishPatil37&theme=github-dark&hide_border=true&bg_color=0d1117&color=8A5CF5&line=0077B5&point=ffffff" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
